@@ -30,5 +30,6 @@ Result:
 The analysis provided valuable insights into SuperStore's sales trends, highlighting top-performing products, regions with the highest profitability, and key customer segments driving sales. The findings revealed which products contribute most to revenue, identified underperforming areas, and outlined seasonal purchasing patterns. With interactive dashboards and visualizations, decision-makers can now easily monitor performance metrics, enabling them to make data-driven decisions to improve marketing, inventory management, and overall profitability. Additionally, recommendations were made to enhance revenue and reduce operational costs based on these insights.
 
 Practical Analysis: https://drive.google.com/file/d/1An_cRn1AyCgyHD4qiH4OOHuhQzCk27E7/view?usp=sharing
+Link :https://drive.google.com/file/d/1MOWNRvXOL6NPh80tcYlHONW76ZtNZLuy/view?usp=sharing
 
 
